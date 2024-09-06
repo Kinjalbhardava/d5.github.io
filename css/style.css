@@ -921,10 +921,12 @@ color: white;
 
     .abtcol img {
         max-width: 80px;
+        padding: 0;
     }
 
     .about h3 {
         font-size: 14px;
+        padding: 0;
     }
 
 
@@ -1146,7 +1148,7 @@ height: 100%;
 }
 .contactcol .btsubmit {
     margin-top: 0;
-    width: 80%;
+    width: 90%;
 }
 
 /* footer content */
